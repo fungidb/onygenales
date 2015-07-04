@@ -1,0 +1,19 @@
+mito	1	2480	1	W	cont1.524	1	2480	+
+mito	2481	2530	2	N	50	fragment	yes
+mito	2531	4601	3	W	cont1.520	1	2071	+
+mito	4602	5872	4	N	1271	fragment	yes
+mito	5873	24952	5	W	cont1.521	1	19080	+
+mito	24953	25002	6	N	50	fragment	yes
+mito	25003	45051	7	W	cont1.518	1	20049	+
+mito	45052	45301	8	N	250	fragment	yes
+mito	45302	61233	9	W	cont1.519	1	15932	+
+mito	61234	61283	10	N	50	fragment	yes
+mito	61284	63314	11	W	cont1.527	1	2031	+
+mito	63315	63364	12	N	50	fragment	yes
+mito	63365	78140	13	W	cont1.522	1	14776	+
+mito	78141	78190	14	N	50	fragment	yes
+mito	78191	87067	15	W	cont1.523	1	8877	+
+mito	87068	87117	16	N	50	fragment	yes
+mito	87118	89334	17	W	cont1.526	1	2217	+
+mito	89335	89384	18	N	50	fragment	yes
+mito	89385	91839	19	W	cont1.525	1	2455	+

@@ -1,0 +1,874 @@
+Supercontig_2.1	1	22138	1	W	Contig_2.1	1	22138	+
+Supercontig_2.1	22139	22350	2	N	212	fragment	yes
+Supercontig_2.1	22351	129281	3	W	Contig_2.2	1	106931	+
+Supercontig_2.1	129282	129424	4	N	143	fragment	yes
+Supercontig_2.1	129425	267342	5	W	Contig_2.3	1	137918	+
+Supercontig_2.1	267343	267718	6	N	376	fragment	yes
+Supercontig_2.1	267719	270730	7	W	Contig_2.4	1	3012	+
+Supercontig_2.1	270731	271221	8	N	491	fragment	yes
+Supercontig_2.1	271222	281444	9	W	Contig_2.5	1	10223	+
+Supercontig_2.1	281445	281635	10	N	191	fragment	yes
+Supercontig_2.1	281636	351086	11	W	Contig_2.6	1	69451	+
+Supercontig_2.1	351087	351186	12	N	100	fragment	yes
+Supercontig_2.1	351187	359145	13	W	Contig_2.7	1	7959	+
+Supercontig_2.1	359146	359245	14	N	100	fragment	yes
+Supercontig_2.1	359246	491130	15	W	Contig_2.8	1	131885	+
+Supercontig_2.1	491131	491738	16	N	608	fragment	yes
+Supercontig_2.1	491739	493088	17	W	Contig_2.9	1	1350	+
+Supercontig_2.1	493089	493249	18	N	161	fragment	yes
+Supercontig_2.1	493250	669951	19	W	Contig_2.10	1	176702	+
+Supercontig_2.1	669952	670051	20	N	100	fragment	yes
+Supercontig_2.1	670052	746852	21	W	Contig_2.11	1	76801	+
+Supercontig_2.1	746853	748705	22	N	1853	fragment	yes
+Supercontig_2.1	748706	752426	23	W	Contig_2.12	1	3721	+
+Supercontig_2.1	752427	753699	24	N	1273	fragment	yes
+Supercontig_2.1	753700	769161	25	W	Contig_2.13	1	15462	+
+Supercontig_2.1	769162	769261	26	N	100	fragment	yes
+Supercontig_2.1	769262	958344	27	W	Contig_2.14	1	189083	+
+Supercontig_2.1	958345	958444	28	N	100	fragment	yes
+Supercontig_2.1	958445	972305	29	W	Contig_2.15	1	13861	+
+Supercontig_2.1	972306	972405	30	N	100	fragment	yes
+Supercontig_2.1	972406	976043	31	W	Contig_2.16	1	3638	+
+Supercontig_2.1	976044	976245	32	N	202	fragment	yes
+Supercontig_2.1	976246	1167574	33	W	Contig_2.17	1	191329	+
+Supercontig_2.1	1167575	1168060	34	N	486	fragment	yes
+Supercontig_2.1	1168061	1210429	35	W	Contig_2.18	1	42369	+
+Supercontig_2.1	1210430	1210529	36	N	100	fragment	yes
+Supercontig_2.1	1210530	1219783	37	W	Contig_2.19	1	9254	+
+Supercontig_2.1	1219784	1220020	38	N	237	fragment	yes
+Supercontig_2.1	1220021	1377462	39	W	Contig_2.20	1	157442	+
+Supercontig_2.1	1377463	1377562	40	N	100	fragment	yes
+Supercontig_2.1	1377563	1387014	41	W	Contig_2.21	1	9452	+
+Supercontig_2.1	1387015	1387114	42	N	100	fragment	yes
+Supercontig_2.1	1387115	1461630	43	W	Contig_2.22	1	74516	+
+Supercontig_2.1	1461631	1462335	44	N	705	fragment	yes
+Supercontig_2.1	1462336	1518917	45	W	Contig_2.23	1	56582	+
+Supercontig_2.1	1518918	1519200	46	N	283	fragment	yes
+Supercontig_2.1	1519201	1520835	47	W	Contig_2.24	1	1635	+
+Supercontig_2.1	1520836	1521443	48	N	608	fragment	yes
+Supercontig_2.1	1521444	1573923	49	W	Contig_2.25	1	52480	+
+Supercontig_2.1	1573924	1574435	50	N	512	fragment	yes
+Supercontig_2.1	1574436	1575999	51	W	Contig_2.26	1	1564	+
+Supercontig_2.1	1576000	1576118	52	N	119	fragment	yes
+Supercontig_2.1	1576119	1632946	53	W	Contig_2.27	1	56828	+
+Supercontig_2.1	1632947	1633046	54	N	100	fragment	yes
+Supercontig_2.1	1633047	1634857	55	W	Contig_2.28	1	1811	+
+Supercontig_2.1	1634858	1634957	56	N	100	fragment	yes
+Supercontig_2.1	1634958	1710582	57	W	Contig_2.29	1	75625	+
+Supercontig_2.1	1710583	1711064	58	N	482	fragment	yes
+Supercontig_2.1	1711065	1835980	59	W	Contig_2.30	1	124916	+
+Supercontig_2.1	1835981	1836350	60	N	370	fragment	yes
+Supercontig_2.1	1836351	1857277	61	W	Contig_2.31	1	20927	+
+Supercontig_2.1	1857278	1857377	62	N	100	fragment	yes
+Supercontig_2.1	1857378	1967067	63	W	Contig_2.32	1	109690	+
+Supercontig_2.1	1967068	1967427	64	N	360	fragment	yes
+Supercontig_2.1	1967428	1968969	65	W	Contig_2.33	1	1542	+
+Supercontig_2.1	1968970	1970302	66	N	1333	fragment	yes
+Supercontig_2.1	1970303	1973763	67	W	Contig_2.34	1	3461	+
+Supercontig_2.1	1973764	1973863	68	N	100	fragment	yes
+Supercontig_2.1	1973864	2066187	69	W	Contig_2.35	1	92324	+
+Supercontig_2.1	2066188	2066287	70	N	100	fragment	yes
+Supercontig_2.1	2066288	2070900	71	W	Contig_2.36	1	4613	+
+Supercontig_2.1	2070901	2071133	72	N	233	fragment	yes
+Supercontig_2.1	2071134	2073600	73	W	Contig_2.37	1	2467	+
+Supercontig_2.1	2073601	2073700	74	N	100	fragment	yes
+Supercontig_2.1	2073701	2205852	75	W	Contig_2.38	1	132152	+
+Supercontig_2.1	2205853	2205952	76	N	100	fragment	yes
+Supercontig_2.1	2205953	2308822	77	W	Contig_2.39	1	102870	+
+Supercontig_2.1	2308823	2308937	78	N	115	fragment	yes
+Supercontig_2.1	2308938	2324490	79	W	Contig_2.40	1	15553	+
+Supercontig_2.1	2324491	2325079	80	N	589	fragment	yes
+Supercontig_2.1	2325080	2491239	81	W	Contig_2.41	1	166160	+
+Supercontig_2.1	2491240	2491356	82	N	117	fragment	yes
+Supercontig_2.1	2491357	2673285	83	W	Contig_2.42	1	181929	+
+Supercontig_2.1	2673286	2673385	84	N	100	fragment	yes
+Supercontig_2.1	2673386	2827890	85	W	Contig_2.43	1	154505	+
+Supercontig_2.1	2827891	2828087	86	N	197	fragment	yes
+Supercontig_2.1	2828088	2887891	87	W	Contig_2.44	1	59804	+
+Supercontig_2.1	2887892	2888369	88	N	478	fragment	yes
+Supercontig_2.1	2888370	2924710	89	W	Contig_2.45	1	36341	+
+Supercontig_2.1	2924711	2924810	90	N	100	fragment	yes
+Supercontig_2.1	2924811	3039921	91	W	Contig_2.46	1	115111	+
+Supercontig_2.1	3039922	3040237	92	N	316	fragment	yes
+Supercontig_2.1	3040238	3172205	93	W	Contig_2.47	1	131968	+
+Supercontig_2.1	3172206	3172305	94	N	100	fragment	yes
+Supercontig_2.1	3172306	3265612	95	W	Contig_2.48	1	93307	+
+Supercontig_2.1	3265613	3265712	96	N	100	fragment	yes
+Supercontig_2.1	3265713	3367393	97	W	Contig_2.49	1	101681	+
+Supercontig_2.1	3367394	3367509	98	N	116	fragment	yes
+Supercontig_2.1	3367510	3370345	99	W	Contig_2.50	1	2836	+
+Supercontig_2.1	3370346	3370445	100	N	100	fragment	yes
+Supercontig_2.1	3370446	3443261	101	W	Contig_2.51	1	72816	+
+Supercontig_2.1	3443262	3444157	102	N	896	fragment	yes
+Supercontig_2.1	3444158	3447214	103	W	Contig_2.52	1	3057	+
+Supercontig_2.1	3447215	3447494	104	N	280	fragment	yes
+Supercontig_2.1	3447495	3454814	105	W	Contig_2.53	1	7320	+
+Supercontig_2.1	3454815	3454914	106	N	100	fragment	yes
+Supercontig_2.1	3454915	3463292	107	W	Contig_2.54	1	8378	+
+Supercontig_2.1	3463293	3463392	108	N	100	fragment	yes
+Supercontig_2.1	3463393	3473653	109	W	Contig_2.55	1	10261	+
+Supercontig_2.2	1	8252	1	W	Contig_2.56	1	8252	+
+Supercontig_2.2	8253	9245	2	N	993	fragment	yes
+Supercontig_2.2	9246	13255	3	W	Contig_2.57	1	4010	+
+Supercontig_2.2	13256	13583	4	N	328	fragment	yes
+Supercontig_2.2	13584	22256	5	W	Contig_2.58	1	8673	+
+Supercontig_2.2	22257	22585	6	N	329	fragment	yes
+Supercontig_2.2	22586	26380	7	W	Contig_2.59	1	3795	+
+Supercontig_2.2	26381	26480	8	N	100	fragment	yes
+Supercontig_2.2	26481	29887	9	W	Contig_2.60	1	3407	+
+Supercontig_2.2	29888	30249	10	N	362	fragment	yes
+Supercontig_2.2	30250	38426	11	W	Contig_2.61	1	8177	+
+Supercontig_2.2	38427	38526	12	N	100	fragment	yes
+Supercontig_2.2	38527	45106	13	W	Contig_2.62	1	6580	+
+Supercontig_2.2	45107	45206	14	N	100	fragment	yes
+Supercontig_2.2	45207	46580	15	W	Contig_2.63	1	1374	+
+Supercontig_2.2	46581	46680	16	N	100	fragment	yes
+Supercontig_2.2	46681	49354	17	W	Contig_2.64	1	2674	+
+Supercontig_2.2	49355	49602	18	N	248	fragment	yes
+Supercontig_2.2	49603	77001	19	W	Contig_2.65	1	27399	+
+Supercontig_2.2	77002	77101	20	N	100	fragment	yes
+Supercontig_2.2	77102	137857	21	W	Contig_2.66	1	60756	+
+Supercontig_2.2	137858	137957	22	N	100	fragment	yes
+Supercontig_2.2	137958	139577	23	W	Contig_2.67	1	1620	+
+Supercontig_2.2	139578	139930	24	N	353	fragment	yes
+Supercontig_2.2	139931	140719	25	W	Contig_2.68	1	789	+
+Supercontig_2.2	140720	141012	26	N	293	fragment	yes
+Supercontig_2.2	141013	183059	27	W	Contig_2.69	1	42047	+
+Supercontig_2.2	183060	183344	28	N	285	fragment	yes
+Supercontig_2.2	183345	271480	29	W	Contig_2.70	1	88136	+
+Supercontig_2.2	271481	271580	30	N	100	fragment	yes
+Supercontig_2.2	271581	503671	31	W	Contig_2.71	1	232091	+
+Supercontig_2.2	503672	504661	32	N	990	fragment	yes
+Supercontig_2.2	504662	641619	33	W	Contig_2.72	1	136958	+
+Supercontig_2.2	641620	641744	34	N	125	fragment	yes
+Supercontig_2.2	641745	702709	35	W	Contig_2.73	1	60965	+
+Supercontig_2.2	702710	702809	36	N	100	fragment	yes
+Supercontig_2.2	702810	904553	37	W	Contig_2.74	1	201744	+
+Supercontig_2.2	904554	904683	38	N	130	fragment	yes
+Supercontig_2.2	904684	908421	39	W	Contig_2.75	1	3738	+
+Supercontig_2.2	908422	910513	40	N	2092	fragment	yes
+Supercontig_2.2	910514	911859	41	W	Contig_2.76	1	1346	+
+Supercontig_2.2	911860	912037	42	N	178	fragment	yes
+Supercontig_2.2	912038	914690	43	W	Contig_2.77	1	2653	+
+Supercontig_2.2	914691	914854	44	N	164	fragment	yes
+Supercontig_2.2	914855	1267985	45	W	Contig_2.78	1	353131	+
+Supercontig_2.2	1267986	1268085	46	N	100	fragment	yes
+Supercontig_2.2	1268086	1619755	47	W	Contig_2.79	1	351670	+
+Supercontig_2.2	1619756	1619855	48	N	100	fragment	yes
+Supercontig_2.2	1619856	1665320	49	W	Contig_2.80	1	45465	+
+Supercontig_2.2	1665321	1665420	50	N	100	fragment	yes
+Supercontig_2.2	1665421	1746462	51	W	Contig_2.81	1	81042	+
+Supercontig_2.2	1746463	1746592	52	N	130	fragment	yes
+Supercontig_2.2	1746593	1753720	53	W	Contig_2.82	1	7128	+
+Supercontig_2.2	1753721	1753820	54	N	100	fragment	yes
+Supercontig_2.2	1753821	1886599	55	W	Contig_2.83	1	132779	+
+Supercontig_2.2	1886600	1886934	56	N	335	fragment	yes
+Supercontig_2.2	1886935	1889656	57	W	Contig_2.84	1	2722	+
+Supercontig_2.2	1889657	1890245	58	N	589	fragment	yes
+Supercontig_2.2	1890246	1942192	59	W	Contig_2.85	1	51947	+
+Supercontig_2.2	1942193	1942292	60	N	100	fragment	yes
+Supercontig_2.2	1942293	2042663	61	W	Contig_2.86	1	100371	+
+Supercontig_2.2	2042664	2042763	62	N	100	fragment	yes
+Supercontig_2.2	2042764	2045734	63	W	Contig_2.87	1	2971	+
+Supercontig_2.2	2045735	2046097	64	N	363	fragment	yes
+Supercontig_2.2	2046098	2048154	65	W	Contig_2.88	1	2057	+
+Supercontig_2.2	2048155	2049095	66	N	941	fragment	yes
+Supercontig_2.2	2049096	2203747	67	W	Contig_2.89	1	154652	+
+Supercontig_2.2	2203748	2203884	68	N	137	fragment	yes
+Supercontig_2.2	2203885	2391659	69	W	Contig_2.90	1	187775	+
+Supercontig_2.2	2391660	2392091	70	N	432	fragment	yes
+Supercontig_2.2	2392092	2393535	71	W	Contig_2.91	1	1444	+
+Supercontig_2.2	2393536	2393845	72	N	310	fragment	yes
+Supercontig_2.2	2393846	2431443	73	W	Contig_2.92	1	37598	+
+Supercontig_2.3	1	26328	1	W	Contig_2.93	1	26328	+
+Supercontig_2.3	26329	26428	2	N	100	fragment	yes
+Supercontig_2.3	26429	28026	3	W	Contig_2.94	1	1598	+
+Supercontig_2.3	28027	28401	4	N	375	fragment	yes
+Supercontig_2.3	28402	54372	5	W	Contig_2.95	1	25971	+
+Supercontig_2.3	54373	54607	6	N	235	fragment	yes
+Supercontig_2.3	54608	207011	7	W	Contig_2.96	1	152404	+
+Supercontig_2.3	207012	207111	8	N	100	fragment	yes
+Supercontig_2.3	207112	247433	9	W	Contig_2.97	1	40322	+
+Supercontig_2.3	247434	247533	10	N	100	fragment	yes
+Supercontig_2.3	247534	268008	11	W	Contig_2.98	1	20475	+
+Supercontig_2.3	268009	268108	12	N	100	fragment	yes
+Supercontig_2.3	268109	466801	13	W	Contig_2.99	1	198693	+
+Supercontig_2.3	466802	467318	14	N	517	fragment	yes
+Supercontig_2.3	467319	1035618	15	W	Contig_2.100	1	568300	+
+Supercontig_2.3	1035619	1035774	16	N	156	fragment	yes
+Supercontig_2.3	1035775	1055058	17	W	Contig_2.101	1	19284	+
+Supercontig_2.3	1055059	1056184	18	N	1126	fragment	yes
+Supercontig_2.3	1056185	1292686	19	W	Contig_2.102	1	236502	+
+Supercontig_2.3	1292687	1292793	20	N	107	fragment	yes
+Supercontig_2.3	1292794	1531707	21	W	Contig_2.103	1	238914	+
+Supercontig_2.3	1531708	1531807	22	N	100	fragment	yes
+Supercontig_2.3	1531808	1609105	23	W	Contig_2.104	1	77298	+
+Supercontig_2.3	1609106	1609270	24	N	165	fragment	yes
+Supercontig_2.3	1609271	1662738	25	W	Contig_2.105	1	53468	+
+Supercontig_2.3	1662739	1662927	26	N	189	fragment	yes
+Supercontig_2.3	1662928	1705923	27	W	Contig_2.106	1	42996	+
+Supercontig_2.4	1	4947	1	W	Contig_2.107	1	4947	+
+Supercontig_2.4	4948	5777	2	N	830	fragment	yes
+Supercontig_2.4	5778	8573	3	W	Contig_2.108	1	2796	+
+Supercontig_2.4	8574	8673	4	N	100	fragment	yes
+Supercontig_2.4	8674	36257	5	W	Contig_2.109	1	27584	+
+Supercontig_2.4	36258	36357	6	N	100	fragment	yes
+Supercontig_2.4	36358	57489	7	W	Contig_2.110	1	21132	+
+Supercontig_2.4	57490	57589	8	N	100	fragment	yes
+Supercontig_2.4	57590	88250	9	W	Contig_2.111	1	30661	+
+Supercontig_2.4	88251	88486	10	N	236	fragment	yes
+Supercontig_2.4	88487	92865	11	W	Contig_2.112	1	4379	+
+Supercontig_2.4	92866	92965	12	N	100	fragment	yes
+Supercontig_2.4	92966	96643	13	W	Contig_2.113	1	3678	+
+Supercontig_2.4	96644	96743	14	N	100	fragment	yes
+Supercontig_2.4	96744	116709	15	W	Contig_2.114	1	19966	+
+Supercontig_2.4	116710	116809	16	N	100	fragment	yes
+Supercontig_2.4	116810	117521	17	W	Contig_2.115	1	712	+
+Supercontig_2.4	117522	117700	18	N	179	fragment	yes
+Supercontig_2.4	117701	126435	19	W	Contig_2.116	1	8735	+
+Supercontig_2.4	126436	126653	20	N	218	fragment	yes
+Supercontig_2.4	126654	140207	21	W	Contig_2.117	1	13554	+
+Supercontig_2.4	140208	140307	22	N	100	fragment	yes
+Supercontig_2.4	140308	168349	23	W	Contig_2.118	1	28042	+
+Supercontig_2.4	168350	168521	24	N	172	fragment	yes
+Supercontig_2.4	168522	239578	25	W	Contig_2.119	1	71057	+
+Supercontig_2.4	239579	239681	26	N	103	fragment	yes
+Supercontig_2.4	239682	448047	27	W	Contig_2.120	1	208366	+
+Supercontig_2.4	448048	448147	28	N	100	fragment	yes
+Supercontig_2.4	448148	563280	29	W	Contig_2.121	1	115133	+
+Supercontig_2.4	563281	563843	30	N	563	fragment	yes
+Supercontig_2.4	563844	565893	31	W	Contig_2.122	1	2050	+
+Supercontig_2.4	565894	565993	32	N	100	fragment	yes
+Supercontig_2.4	565994	567356	33	W	Contig_2.123	1	1363	+
+Supercontig_2.4	567357	567470	34	N	114	fragment	yes
+Supercontig_2.4	567471	627594	35	W	Contig_2.124	1	60124	+
+Supercontig_2.4	627595	627694	36	N	100	fragment	yes
+Supercontig_2.4	627695	630181	37	W	Contig_2.125	1	2487	+
+Supercontig_2.4	630182	630755	38	N	574	fragment	yes
+Supercontig_2.4	630756	696509	39	W	Contig_2.126	1	65754	+
+Supercontig_2.4	696510	696636	40	N	127	fragment	yes
+Supercontig_2.4	696637	735612	41	W	Contig_2.127	1	38976	+
+Supercontig_2.4	735613	735735	42	N	123	fragment	yes
+Supercontig_2.4	735736	794021	43	W	Contig_2.128	1	58286	+
+Supercontig_2.4	794022	794311	44	N	290	fragment	yes
+Supercontig_2.4	794312	832825	45	W	Contig_2.129	1	38514	+
+Supercontig_2.4	832826	832941	46	N	116	fragment	yes
+Supercontig_2.4	832942	887705	47	W	Contig_2.130	1	54764	+
+Supercontig_2.4	887706	887878	48	N	173	fragment	yes
+Supercontig_2.4	887879	926912	49	W	Contig_2.131	1	39034	+
+Supercontig_2.4	926913	927045	50	N	133	fragment	yes
+Supercontig_2.4	927046	1019034	51	W	Contig_2.132	1	91989	+
+Supercontig_2.4	1019035	1021341	52	N	2307	fragment	yes
+Supercontig_2.4	1021342	1216782	53	W	Contig_2.133	1	195441	+
+Supercontig_2.4	1216783	1216984	54	N	202	fragment	yes
+Supercontig_2.4	1216985	1237353	55	W	Contig_2.134	1	20369	+
+Supercontig_2.4	1237354	1237627	56	N	274	fragment	yes
+Supercontig_2.4	1237628	1252706	57	W	Contig_2.135	1	15079	+
+Supercontig_2.4	1252707	1252985	58	N	279	fragment	yes
+Supercontig_2.4	1252986	1341629	59	W	Contig_2.136	1	88644	+
+Supercontig_2.4	1341630	1341729	60	N	100	fragment	yes
+Supercontig_2.4	1341730	1361011	61	W	Contig_2.137	1	19282	+
+Supercontig_2.4	1361012	1361111	62	N	100	fragment	yes
+Supercontig_2.4	1361112	1555410	63	W	Contig_2.138	1	194299	+
+Supercontig_2.5	1	30830	1	W	Contig_2.139	1	30830	+
+Supercontig_2.5	30831	30999	2	N	169	fragment	yes
+Supercontig_2.5	31000	42098	3	W	Contig_2.140	1	11099	+
+Supercontig_2.5	42099	42212	4	N	114	fragment	yes
+Supercontig_2.5	42213	44549	5	W	Contig_2.141	1	2337	+
+Supercontig_2.5	44550	44649	6	N	100	fragment	yes
+Supercontig_2.5	44650	123215	7	W	Contig_2.142	1	78566	+
+Supercontig_2.5	123216	123597	8	N	382	fragment	yes
+Supercontig_2.5	123598	207150	9	W	Contig_2.143	1	83553	+
+Supercontig_2.5	207151	207250	10	N	100	fragment	yes
+Supercontig_2.5	207251	383260	11	W	Contig_2.144	1	176010	+
+Supercontig_2.5	383261	383557	12	N	297	fragment	yes
+Supercontig_2.5	383558	410887	13	W	Contig_2.145	1	27330	+
+Supercontig_2.5	410888	410987	14	N	100	fragment	yes
+Supercontig_2.5	410988	474063	15	W	Contig_2.146	1	63076	+
+Supercontig_2.5	474064	474163	16	N	100	fragment	yes
+Supercontig_2.5	474164	484528	17	W	Contig_2.147	1	10365	+
+Supercontig_2.5	484529	484797	18	N	269	fragment	yes
+Supercontig_2.5	484798	509969	19	W	Contig_2.148	1	25172	+
+Supercontig_2.5	509970	510069	20	N	100	fragment	yes
+Supercontig_2.5	510070	556802	21	W	Contig_2.149	1	46733	+
+Supercontig_2.5	556803	556902	22	N	100	fragment	yes
+Supercontig_2.5	556903	634610	23	W	Contig_2.150	1	77708	+
+Supercontig_2.5	634611	634710	24	N	100	fragment	yes
+Supercontig_2.5	634711	636330	25	W	Contig_2.151	1	1620	+
+Supercontig_2.5	636331	636692	26	N	362	fragment	yes
+Supercontig_2.5	636693	1030501	27	W	Contig_2.152	1	393809	+
+Supercontig_2.5	1030502	1030601	28	N	100	fragment	yes
+Supercontig_2.5	1030602	1113990	29	W	Contig_2.153	1	83389	+
+Supercontig_2.5	1113991	1114124	30	N	134	fragment	yes
+Supercontig_2.5	1114125	1115206	31	W	Contig_2.154	1	1082	+
+Supercontig_2.5	1115207	1115317	32	N	111	fragment	yes
+Supercontig_2.5	1115318	1227503	33	W	Contig_2.155	1	112186	+
+Supercontig_2.5	1227504	1227603	34	N	100	fragment	yes
+Supercontig_2.5	1227604	1371478	35	W	Contig_2.156	1	143875	+
+Supercontig_2.5	1371479	1372025	36	N	547	fragment	yes
+Supercontig_2.5	1372026	1501547	37	W	Contig_2.157	1	129522	+
+Supercontig_2.6	1	9866	1	W	Contig_2.158	1	9866	+
+Supercontig_2.6	9867	9966	2	N	100	fragment	yes
+Supercontig_2.6	9967	433048	3	W	Contig_2.159	1	423082	+
+Supercontig_2.6	433049	433154	4	N	106	fragment	yes
+Supercontig_2.6	433155	437004	5	W	Contig_2.160	1	3850	+
+Supercontig_2.6	437005	437104	6	N	100	fragment	yes
+Supercontig_2.6	437105	464348	7	W	Contig_2.161	1	27244	+
+Supercontig_2.6	464349	464540	8	N	192	fragment	yes
+Supercontig_2.6	464541	924714	9	W	Contig_2.162	1	460174	+
+Supercontig_2.6	924715	925353	10	N	639	fragment	yes
+Supercontig_2.6	925354	945652	11	W	Contig_2.163	1	20299	+
+Supercontig_2.6	945653	945829	12	N	177	fragment	yes
+Supercontig_2.6	945830	949439	13	W	Contig_2.164	1	3610	+
+Supercontig_2.6	949440	949880	14	N	441	fragment	yes
+Supercontig_2.6	949881	1018862	15	W	Contig_2.165	1	68982	+
+Supercontig_2.6	1018863	1020242	16	N	1380	fragment	yes
+Supercontig_2.6	1020243	1023868	17	W	Contig_2.166	1	3626	+
+Supercontig_2.6	1023869	1024797	18	N	929	fragment	yes
+Supercontig_2.6	1024798	1061560	19	W	Contig_2.167	1	36763	+
+Supercontig_2.6	1061561	1061660	20	N	100	fragment	yes
+Supercontig_2.6	1061661	1072460	21	W	Contig_2.168	1	10800	+
+Supercontig_2.6	1072461	1073501	22	N	1041	fragment	yes
+Supercontig_2.6	1073502	1103322	23	W	Contig_2.169	1	29821	+
+Supercontig_2.6	1103323	1103424	24	N	102	fragment	yes
+Supercontig_2.6	1103425	1138600	25	W	Contig_2.170	1	35176	+
+Supercontig_2.6	1138601	1139077	26	N	477	fragment	yes
+Supercontig_2.6	1139078	1199008	27	W	Contig_2.171	1	59931	+
+Supercontig_2.6	1199009	1199155	28	N	147	fragment	yes
+Supercontig_2.6	1199156	1201486	29	W	Contig_2.172	1	2331	+
+Supercontig_2.6	1201487	1204225	30	N	2739	fragment	yes
+Supercontig_2.6	1204226	1318921	31	W	Contig_2.173	1	114696	+
+Supercontig_2.6	1318922	1319021	32	N	100	fragment	yes
+Supercontig_2.6	1319022	1361035	33	W	Contig_2.174	1	42014	+
+Supercontig_2.6	1361036	1361675	34	N	640	fragment	yes
+Supercontig_2.6	1361676	1364956	35	W	Contig_2.175	1	3281	+
+Supercontig_2.6	1364957	1365110	36	N	154	fragment	yes
+Supercontig_2.6	1365111	1368639	37	W	Contig_2.176	1	3529	+
+Supercontig_2.6	1368640	1368739	38	N	100	fragment	yes
+Supercontig_2.6	1368740	1370198	39	W	Contig_2.177	1	1459	+
+Supercontig_2.6	1370199	1370298	40	N	100	fragment	yes
+Supercontig_2.6	1370299	1405240	41	W	Contig_2.178	1	34942	+
+Supercontig_2.7	1	79222	1	W	Contig_2.179	1	79222	+
+Supercontig_2.7	79223	79403	2	N	181	fragment	yes
+Supercontig_2.7	79404	82757	3	W	Contig_2.180	1	3354	+
+Supercontig_2.7	82758	84782	4	N	2025	fragment	yes
+Supercontig_2.7	84783	319161	5	W	Contig_2.181	1	234379	+
+Supercontig_2.7	319162	319610	6	N	449	fragment	yes
+Supercontig_2.7	319611	322013	7	W	Contig_2.182	1	2403	+
+Supercontig_2.7	322014	322209	8	N	196	fragment	yes
+Supercontig_2.7	322210	412703	9	W	Contig_2.183	1	90494	+
+Supercontig_2.7	412704	413516	10	N	813	fragment	yes
+Supercontig_2.7	413517	556422	11	W	Contig_2.184	1	142906	+
+Supercontig_2.7	556423	556522	12	N	100	fragment	yes
+Supercontig_2.7	556523	559077	13	W	Contig_2.185	1	2555	+
+Supercontig_2.7	559078	559177	14	N	100	fragment	yes
+Supercontig_2.7	559178	571754	15	W	Contig_2.186	1	12577	+
+Supercontig_2.7	571755	571854	16	N	100	fragment	yes
+Supercontig_2.7	571855	574775	17	W	Contig_2.187	1	2921	+
+Supercontig_2.7	574776	575207	18	N	432	fragment	yes
+Supercontig_2.7	575208	584879	19	W	Contig_2.188	1	9672	+
+Supercontig_2.7	584880	584979	20	N	100	fragment	yes
+Supercontig_2.7	584980	590862	21	W	Contig_2.189	1	5883	+
+Supercontig_2.7	590863	591009	22	N	147	fragment	yes
+Supercontig_2.7	591010	1232860	23	W	Contig_2.190	1	641851	+
+Supercontig_2.7	1232861	1233231	24	N	371	fragment	yes
+Supercontig_2.7	1233232	1312296	25	W	Contig_2.191	1	79065	+
+Supercontig_2.8	1	1943	1	W	Contig_2.192	1	1943	+
+Supercontig_2.8	1944	2323	2	N	380	fragment	yes
+Supercontig_2.8	2324	5838	3	W	Contig_2.193	1	3515	+
+Supercontig_2.8	5839	6347	4	N	509	fragment	yes
+Supercontig_2.8	6348	7900	5	W	Contig_2.194	1	1553	+
+Supercontig_2.8	7901	8161	6	N	261	fragment	yes
+Supercontig_2.8	8162	29439	7	W	Contig_2.195	1	21278	+
+Supercontig_2.8	29440	29539	8	N	100	fragment	yes
+Supercontig_2.8	29540	61341	9	W	Contig_2.196	1	31802	+
+Supercontig_2.8	61342	61624	10	N	283	fragment	yes
+Supercontig_2.8	61625	69301	11	W	Contig_2.197	1	7677	+
+Supercontig_2.8	69302	69509	12	N	208	fragment	yes
+Supercontig_2.8	69510	141276	13	W	Contig_2.198	1	71767	+
+Supercontig_2.8	141277	141376	14	N	100	fragment	yes
+Supercontig_2.8	141377	142565	15	W	Contig_2.199	1	1189	+
+Supercontig_2.8	142566	142672	16	N	107	fragment	yes
+Supercontig_2.8	142673	178193	17	W	Contig_2.200	1	35521	+
+Supercontig_2.8	178194	178596	18	N	403	fragment	yes
+Supercontig_2.8	178597	316663	19	W	Contig_2.201	1	138067	+
+Supercontig_2.8	316664	316763	20	N	100	fragment	yes
+Supercontig_2.8	316764	388992	21	W	Contig_2.202	1	72229	+
+Supercontig_2.8	388993	389092	22	N	100	fragment	yes
+Supercontig_2.8	389093	393863	23	W	Contig_2.203	1	4771	+
+Supercontig_2.8	393864	394186	24	N	323	fragment	yes
+Supercontig_2.8	394187	396651	25	W	Contig_2.204	1	2465	+
+Supercontig_2.8	396652	397486	26	N	835	fragment	yes
+Supercontig_2.8	397487	411396	27	W	Contig_2.205	1	13910	+
+Supercontig_2.8	411397	411496	28	N	100	fragment	yes
+Supercontig_2.8	411497	427851	29	W	Contig_2.206	1	16355	+
+Supercontig_2.8	427852	427968	30	N	117	fragment	yes
+Supercontig_2.8	427969	550822	31	W	Contig_2.207	1	122854	+
+Supercontig_2.8	550823	550922	32	N	100	fragment	yes
+Supercontig_2.8	550923	822617	33	W	Contig_2.208	1	271695	+
+Supercontig_2.8	822618	823154	34	N	537	fragment	yes
+Supercontig_2.8	823155	838246	35	W	Contig_2.209	1	15092	+
+Supercontig_2.8	838247	842975	36	N	4729	fragment	yes
+Supercontig_2.8	842976	854135	37	W	Contig_2.210	1	11160	+
+Supercontig_2.8	854136	854385	38	N	250	fragment	yes
+Supercontig_2.8	854386	1061416	39	W	Contig_2.211	1	207031	+
+Supercontig_2.8	1061417	1061587	40	N	171	fragment	yes
+Supercontig_2.8	1061588	1220107	41	W	Contig_2.212	1	158520	+
+Supercontig_2.9	1	10411	1	W	Contig_2.213	1	10411	+
+Supercontig_2.9	10412	10512	2	N	101	fragment	yes
+Supercontig_2.9	10513	14100	3	W	Contig_2.214	1	3588	+
+Supercontig_2.9	14101	14259	4	N	159	fragment	yes
+Supercontig_2.9	14260	21734	5	W	Contig_2.215	1	7475	+
+Supercontig_2.9	21735	22671	6	N	937	fragment	yes
+Supercontig_2.9	22672	86767	7	W	Contig_2.216	1	64096	+
+Supercontig_2.9	86768	86867	8	N	100	fragment	yes
+Supercontig_2.9	86868	106984	9	W	Contig_2.217	1	20117	+
+Supercontig_2.9	106985	107153	10	N	169	fragment	yes
+Supercontig_2.9	107154	554269	11	W	Contig_2.218	1	447116	+
+Supercontig_2.9	554270	554369	12	N	100	fragment	yes
+Supercontig_2.9	554370	1000013	13	W	Contig_2.219	1	445644	+
+Supercontig_2.9	1000014	1000113	14	N	100	fragment	yes
+Supercontig_2.9	1000114	1147709	15	W	Contig_2.220	1	147596	+
+Supercontig_2.9	1147710	1147809	16	N	100	fragment	yes
+Supercontig_2.9	1147810	1150094	17	W	Contig_2.221	1	2285	+
+Supercontig_2.10	1	78595	1	W	Contig_2.222	1	78595	+
+Supercontig_2.10	78596	78828	2	N	233	fragment	yes
+Supercontig_2.10	78829	213170	3	W	Contig_2.223	1	134342	+
+Supercontig_2.10	213171	213292	4	N	122	fragment	yes
+Supercontig_2.10	213293	217868	5	W	Contig_2.224	1	4576	+
+Supercontig_2.10	217869	218249	6	N	381	fragment	yes
+Supercontig_2.10	218250	220113	7	W	Contig_2.225	1	1864	+
+Supercontig_2.10	220114	220625	8	N	512	fragment	yes
+Supercontig_2.10	220626	293555	9	W	Contig_2.226	1	72930	+
+Supercontig_2.10	293556	295810	10	N	2255	fragment	yes
+Supercontig_2.10	295811	298551	11	W	Contig_2.227	1	2741	+
+Supercontig_2.10	298552	298886	12	N	335	fragment	yes
+Supercontig_2.10	298887	535039	13	W	Contig_2.228	1	236153	+
+Supercontig_2.10	535040	535139	14	N	100	fragment	yes
+Supercontig_2.10	535140	778779	15	W	Contig_2.229	1	243640	+
+Supercontig_2.10	778780	778879	16	N	100	fragment	yes
+Supercontig_2.10	778880	906367	17	W	Contig_2.230	1	127488	+
+Supercontig_2.11	1	116718	1	W	Contig_2.231	1	116718	+
+Supercontig_2.11	116719	117728	2	N	1010	fragment	yes
+Supercontig_2.11	117729	143394	3	W	Contig_2.232	1	25666	+
+Supercontig_2.11	143395	143494	4	N	100	fragment	yes
+Supercontig_2.11	143495	145807	5	W	Contig_2.233	1	2313	+
+Supercontig_2.11	145808	145931	6	N	124	fragment	yes
+Supercontig_2.11	145932	159535	7	W	Contig_2.234	1	13604	+
+Supercontig_2.11	159536	159635	8	N	100	fragment	yes
+Supercontig_2.11	159636	322466	9	W	Contig_2.235	1	162831	+
+Supercontig_2.11	322467	322618	10	N	152	fragment	yes
+Supercontig_2.11	322619	325956	11	W	Contig_2.236	1	3338	+
+Supercontig_2.11	325957	326266	12	N	310	fragment	yes
+Supercontig_2.11	326267	336766	13	W	Contig_2.237	1	10500	+
+Supercontig_2.11	336767	336998	14	N	232	fragment	yes
+Supercontig_2.11	336999	338411	15	W	Contig_2.238	1	1413	+
+Supercontig_2.11	338412	338678	16	N	267	fragment	yes
+Supercontig_2.11	338679	339637	17	W	Contig_2.239	1	959	+
+Supercontig_2.11	339638	340082	18	N	445	fragment	yes
+Supercontig_2.11	340083	415242	19	W	Contig_2.240	1	75160	+
+Supercontig_2.11	415243	415408	20	N	166	fragment	yes
+Supercontig_2.11	415409	416984	21	W	Contig_2.241	1	1576	+
+Supercontig_2.11	416985	417084	22	N	100	fragment	yes
+Supercontig_2.11	417085	417977	23	W	Contig_2.242	1	893	+
+Supercontig_2.11	417978	418518	24	N	541	fragment	yes
+Supercontig_2.11	418519	441354	25	W	Contig_2.243	1	22836	+
+Supercontig_2.11	441355	441705	26	N	351	fragment	yes
+Supercontig_2.11	441706	455660	27	W	Contig_2.244	1	13955	+
+Supercontig_2.11	455661	457851	28	N	2191	fragment	yes
+Supercontig_2.11	457852	585716	29	W	Contig_2.245	1	127865	+
+Supercontig_2.11	585717	585928	30	N	212	fragment	yes
+Supercontig_2.11	585929	589404	31	W	Contig_2.246	1	3476	+
+Supercontig_2.11	589405	590329	32	N	925	fragment	yes
+Supercontig_2.11	590330	636101	33	W	Contig_2.247	1	45772	+
+Supercontig_2.11	636102	636606	34	N	505	fragment	yes
+Supercontig_2.11	636607	653199	35	W	Contig_2.248	1	16593	+
+Supercontig_2.11	653200	654019	36	N	820	fragment	yes
+Supercontig_2.11	654020	712320	37	W	Contig_2.249	1	58301	+
+Supercontig_2.11	712321	712541	38	N	221	fragment	yes
+Supercontig_2.11	712542	713408	39	W	Contig_2.250	1	867	+
+Supercontig_2.11	713409	714014	40	N	606	fragment	yes
+Supercontig_2.11	714015	784472	41	W	Contig_2.251	1	70458	+
+Supercontig_2.11	784473	784689	42	N	217	fragment	yes
+Supercontig_2.11	784690	822344	43	W	Contig_2.252	1	37655	+
+Supercontig_2.11	822345	823859	44	N	1515	fragment	yes
+Supercontig_2.11	823860	824685	45	W	Contig_2.253	1	826	+
+Supercontig_2.11	824686	825135	46	N	450	fragment	yes
+Supercontig_2.11	825136	825962	47	W	Contig_2.254	1	827	+
+Supercontig_2.12	1	80521	1	W	Contig_2.255	1	80521	+
+Supercontig_2.12	80522	80621	2	N	100	fragment	yes
+Supercontig_2.12	80622	252116	3	W	Contig_2.256	1	171495	+
+Supercontig_2.12	252117	252216	4	N	100	fragment	yes
+Supercontig_2.12	252217	253877	5	W	Contig_2.257	1	1661	+
+Supercontig_2.12	253878	254376	6	N	499	fragment	yes
+Supercontig_2.12	254377	277358	7	W	Contig_2.258	1	22982	+
+Supercontig_2.12	277359	277458	8	N	100	fragment	yes
+Supercontig_2.12	277459	285758	9	W	Contig_2.259	1	8300	+
+Supercontig_2.12	285759	285858	10	N	100	fragment	yes
+Supercontig_2.12	285859	297279	11	W	Contig_2.260	1	11421	+
+Supercontig_2.12	297280	297379	12	N	100	fragment	yes
+Supercontig_2.12	297380	326379	13	W	Contig_2.261	1	29000	+
+Supercontig_2.12	326380	326479	14	N	100	fragment	yes
+Supercontig_2.12	326480	388300	15	W	Contig_2.262	1	61821	+
+Supercontig_2.12	388301	388464	16	N	164	fragment	yes
+Supercontig_2.12	388465	486665	17	W	Contig_2.263	1	98201	+
+Supercontig_2.12	486666	486765	18	N	100	fragment	yes
+Supercontig_2.12	486766	519813	19	W	Contig_2.264	1	33048	+
+Supercontig_2.12	519814	520011	20	N	198	fragment	yes
+Supercontig_2.12	520012	527872	21	W	Contig_2.265	1	7861	+
+Supercontig_2.12	527873	528545	22	N	673	fragment	yes
+Supercontig_2.12	528546	580446	23	W	Contig_2.266	1	51901	+
+Supercontig_2.12	580447	581416	24	N	970	fragment	yes
+Supercontig_2.12	581417	590756	25	W	Contig_2.267	1	9340	+
+Supercontig_2.12	590757	590952	26	N	196	fragment	yes
+Supercontig_2.12	590953	688075	27	W	Contig_2.268	1	97123	+
+Supercontig_2.12	688076	688288	28	N	213	fragment	yes
+Supercontig_2.12	688289	693459	29	W	Contig_2.269	1	5171	+
+Supercontig_2.12	693460	694353	30	N	894	fragment	yes
+Supercontig_2.12	694354	708566	31	W	Contig_2.270	1	14213	+
+Supercontig_2.13	1	180942	1	W	Contig_2.271	1	180942	+
+Supercontig_2.13	180943	181094	2	N	152	fragment	yes
+Supercontig_2.13	181095	454464	3	W	Contig_2.272	1	273370	+
+Supercontig_2.13	454465	454564	4	N	100	fragment	yes
+Supercontig_2.13	454565	456763	5	W	Contig_2.273	1	2199	+
+Supercontig_2.13	456764	457520	6	N	757	fragment	yes
+Supercontig_2.13	457521	491193	7	W	Contig_2.274	1	33673	+
+Supercontig_2.13	491194	491896	8	N	703	fragment	yes
+Supercontig_2.13	491897	527401	9	W	Contig_2.275	1	35505	+
+Supercontig_2.13	527402	527501	10	N	100	fragment	yes
+Supercontig_2.13	527502	529860	11	W	Contig_2.276	1	2359	+
+Supercontig_2.13	529861	530164	12	N	304	fragment	yes
+Supercontig_2.13	530165	565818	13	W	Contig_2.277	1	35654	+
+Supercontig_2.13	565819	565918	14	N	100	fragment	yes
+Supercontig_2.13	565919	568774	15	W	Contig_2.278	1	2856	+
+Supercontig_2.13	568775	569158	16	N	384	fragment	yes
+Supercontig_2.13	569159	696083	17	W	Contig_2.279	1	126925	+
+Supercontig_2.14	1	29818	1	W	Contig_2.280	1	29818	+
+Supercontig_2.14	29819	29918	2	N	100	fragment	yes
+Supercontig_2.14	29919	43890	3	W	Contig_2.281	1	13972	+
+Supercontig_2.14	43891	44848	4	N	958	fragment	yes
+Supercontig_2.14	44849	276476	5	W	Contig_2.282	1	231628	+
+Supercontig_2.14	276477	276576	6	N	100	fragment	yes
+Supercontig_2.14	276577	664479	7	W	Contig_2.283	1	387903	+
+Supercontig_2.14	664480	664646	8	N	167	fragment	yes
+Supercontig_2.14	664647	687827	9	W	Contig_2.284	1	23181	+
+Supercontig_2.15	1	56846	1	W	Contig_2.285	1	56846	+
+Supercontig_2.15	56847	57258	2	N	412	fragment	yes
+Supercontig_2.15	57259	92264	3	W	Contig_2.286	1	35006	+
+Supercontig_2.15	92265	92426	4	N	162	fragment	yes
+Supercontig_2.15	92427	151089	5	W	Contig_2.287	1	58663	+
+Supercontig_2.15	151090	151189	6	N	100	fragment	yes
+Supercontig_2.15	151190	243592	7	W	Contig_2.288	1	92403	+
+Supercontig_2.15	243593	243841	8	N	249	fragment	yes
+Supercontig_2.15	243842	246829	9	W	Contig_2.289	1	2988	+
+Supercontig_2.15	246830	247668	10	N	839	fragment	yes
+Supercontig_2.15	247669	412885	11	W	Contig_2.290	1	165217	+
+Supercontig_2.15	412886	412985	12	N	100	fragment	yes
+Supercontig_2.15	412986	445977	13	W	Contig_2.291	1	32992	+
+Supercontig_2.15	445978	446392	14	N	415	fragment	yes
+Supercontig_2.15	446393	486202	15	W	Contig_2.292	1	39810	+
+Supercontig_2.15	486203	487601	16	N	1399	fragment	yes
+Supercontig_2.15	487602	575204	17	W	Contig_2.293	1	87603	+
+Supercontig_2.15	575205	575304	18	N	100	fragment	yes
+Supercontig_2.15	575305	591377	19	W	Contig_2.294	1	16073	+
+Supercontig_2.15	591378	591477	20	N	100	fragment	yes
+Supercontig_2.15	591478	648713	21	W	Contig_2.295	1	57236	+
+Supercontig_2.16	1	11801	1	W	Contig_2.296	1	11801	+
+Supercontig_2.16	11802	12109	2	N	308	fragment	yes
+Supercontig_2.16	12110	56202	3	W	Contig_2.297	1	44093	+
+Supercontig_2.16	56203	56302	4	N	100	fragment	yes
+Supercontig_2.16	56303	60527	5	W	Contig_2.298	1	4225	+
+Supercontig_2.16	60528	61450	6	N	923	fragment	yes
+Supercontig_2.16	61451	77071	7	W	Contig_2.299	1	15621	+
+Supercontig_2.16	77072	77473	8	N	402	fragment	yes
+Supercontig_2.16	77474	78295	9	W	Contig_2.300	1	822	+
+Supercontig_2.16	78296	78395	10	N	100	fragment	yes
+Supercontig_2.16	78396	401816	11	W	Contig_2.301	1	323421	+
+Supercontig_2.16	401817	401916	12	N	100	fragment	yes
+Supercontig_2.16	401917	604887	13	W	Contig_2.302	1	202971	+
+Supercontig_2.16	604888	604987	14	N	100	fragment	yes
+Supercontig_2.16	604988	607777	15	W	Contig_2.303	1	2790	+
+Supercontig_2.16	607778	607966	16	N	189	fragment	yes
+Supercontig_2.16	607967	628187	17	W	Contig_2.304	1	20221	+
+Supercontig_2.16	628188	628471	18	N	284	fragment	yes
+Supercontig_2.16	628472	631642	19	W	Contig_2.305	1	3171	+
+Supercontig_2.16	631643	631742	20	N	100	fragment	yes
+Supercontig_2.16	631743	635085	21	W	Contig_2.306	1	3343	+
+Supercontig_2.16	635086	635255	22	N	170	fragment	yes
+Supercontig_2.16	635256	645317	23	W	Contig_2.307	1	10062	+
+Supercontig_2.16	645318	647322	24	N	2005	fragment	yes
+Supercontig_2.16	647323	648805	25	W	Contig_2.308	1	1483	+
+Supercontig_2.17	1	118138	1	W	Contig_2.309	1	118138	+
+Supercontig_2.17	118139	118260	2	N	122	fragment	yes
+Supercontig_2.17	118261	250196	3	W	Contig_2.310	1	131936	+
+Supercontig_2.17	250197	250298	4	N	102	fragment	yes
+Supercontig_2.17	250299	316662	5	W	Contig_2.311	1	66364	+
+Supercontig_2.17	316663	316884	6	N	222	fragment	yes
+Supercontig_2.17	316885	320447	7	W	Contig_2.312	1	3563	+
+Supercontig_2.17	320448	320595	8	N	148	fragment	yes
+Supercontig_2.17	320596	359026	9	W	Contig_2.313	1	38431	+
+Supercontig_2.17	359027	359126	10	N	100	fragment	yes
+Supercontig_2.17	359127	435673	11	W	Contig_2.314	1	76547	+
+Supercontig_2.17	435674	435773	12	N	100	fragment	yes
+Supercontig_2.17	435774	459716	13	W	Contig_2.315	1	23943	+
+Supercontig_2.17	459717	459852	14	N	136	fragment	yes
+Supercontig_2.17	459853	463588	15	W	Contig_2.316	1	3736	+
+Supercontig_2.17	463589	463688	16	N	100	fragment	yes
+Supercontig_2.17	463689	636139	17	W	Contig_2.317	1	172451	+
+Supercontig_2.18	1	8105	1	W	Contig_2.318	1	8105	+
+Supercontig_2.18	8106	8974	2	N	869	fragment	yes
+Supercontig_2.18	8975	11512	3	W	Contig_2.319	1	2538	+
+Supercontig_2.18	11513	11612	4	N	100	fragment	yes
+Supercontig_2.18	11613	17467	5	W	Contig_2.320	1	5855	+
+Supercontig_2.18	17468	18336	6	N	869	fragment	yes
+Supercontig_2.18	18337	41611	7	W	Contig_2.321	1	23275	+
+Supercontig_2.18	41612	41711	8	N	100	fragment	yes
+Supercontig_2.18	41712	261932	9	W	Contig_2.322	1	220221	+
+Supercontig_2.18	261933	262837	10	N	905	fragment	yes
+Supercontig_2.18	262838	340614	11	W	Contig_2.323	1	77777	+
+Supercontig_2.18	340615	341249	12	N	635	fragment	yes
+Supercontig_2.18	341250	355862	13	W	Contig_2.324	1	14613	+
+Supercontig_2.18	355863	355962	14	N	100	fragment	yes
+Supercontig_2.18	355963	379545	15	W	Contig_2.325	1	23583	+
+Supercontig_2.18	379546	379645	16	N	100	fragment	yes
+Supercontig_2.18	379646	464779	17	W	Contig_2.326	1	85134	+
+Supercontig_2.18	464780	465484	18	N	705	fragment	yes
+Supercontig_2.18	465485	490996	19	W	Contig_2.327	1	25512	+
+Supercontig_2.18	490997	491592	20	N	596	fragment	yes
+Supercontig_2.18	491593	516178	21	W	Contig_2.328	1	24586	+
+Supercontig_2.18	516179	516671	22	N	493	fragment	yes
+Supercontig_2.18	516672	634422	23	W	Contig_2.329	1	117751	+
+Supercontig_2.19	1	51521	1	W	Contig_2.330	1	51521	+
+Supercontig_2.19	51522	51889	2	N	368	fragment	yes
+Supercontig_2.19	51890	106370	3	W	Contig_2.331	1	54481	+
+Supercontig_2.19	106371	106852	4	N	482	fragment	yes
+Supercontig_2.19	106853	148334	5	W	Contig_2.332	1	41482	+
+Supercontig_2.19	148335	148434	6	N	100	fragment	yes
+Supercontig_2.19	148435	182381	7	W	Contig_2.333	1	33947	+
+Supercontig_2.19	182382	182739	8	N	358	fragment	yes
+Supercontig_2.19	182740	210411	9	W	Contig_2.334	1	27672	+
+Supercontig_2.19	210412	210588	10	N	177	fragment	yes
+Supercontig_2.19	210589	250049	11	W	Contig_2.335	1	39461	+
+Supercontig_2.19	250050	250149	12	N	100	fragment	yes
+Supercontig_2.19	250150	251662	13	W	Contig_2.336	1	1513	+
+Supercontig_2.19	251663	251851	14	N	189	fragment	yes
+Supercontig_2.19	251852	254792	15	W	Contig_2.337	1	2941	+
+Supercontig_2.19	254793	255427	16	N	635	fragment	yes
+Supercontig_2.19	255428	329283	17	W	Contig_2.338	1	73856	+
+Supercontig_2.19	329284	329383	18	N	100	fragment	yes
+Supercontig_2.19	329384	334374	19	W	Contig_2.339	1	4991	+
+Supercontig_2.19	334375	334474	20	N	100	fragment	yes
+Supercontig_2.19	334475	388684	21	W	Contig_2.340	1	54210	+
+Supercontig_2.19	388685	388784	22	N	100	fragment	yes
+Supercontig_2.19	388785	525438	23	W	Contig_2.341	1	136654	+
+Supercontig_2.19	525439	527290	24	N	1852	fragment	yes
+Supercontig_2.19	527291	529516	25	W	Contig_2.342	1	2226	+
+Supercontig_2.19	529517	531016	26	N	1500	fragment	yes
+Supercontig_2.19	531017	534111	27	W	Contig_2.343	1	3095	+
+Supercontig_2.19	534112	534211	28	N	100	fragment	yes
+Supercontig_2.19	534212	569569	29	W	Contig_2.344	1	35358	+
+Supercontig_2.20	1	25981	1	W	Contig_2.345	1	25981	+
+Supercontig_2.20	25982	26400	2	N	419	fragment	yes
+Supercontig_2.20	26401	27943	3	W	Contig_2.346	1	1543	+
+Supercontig_2.20	27944	28043	4	N	100	fragment	yes
+Supercontig_2.20	28044	66885	5	W	Contig_2.347	1	38842	+
+Supercontig_2.20	66886	66985	6	N	100	fragment	yes
+Supercontig_2.20	66986	72739	7	W	Contig_2.348	1	5754	+
+Supercontig_2.20	72740	72839	8	N	100	fragment	yes
+Supercontig_2.20	72840	74378	9	W	Contig_2.349	1	1539	+
+Supercontig_2.20	74379	74478	10	N	100	fragment	yes
+Supercontig_2.20	74479	77975	11	W	Contig_2.350	1	3497	+
+Supercontig_2.20	77976	78327	12	N	352	fragment	yes
+Supercontig_2.20	78328	103368	13	W	Contig_2.351	1	25041	+
+Supercontig_2.20	103369	103468	14	N	100	fragment	yes
+Supercontig_2.20	103469	205776	15	W	Contig_2.352	1	102308	+
+Supercontig_2.20	205777	206245	16	N	469	fragment	yes
+Supercontig_2.20	206246	257083	17	W	Contig_2.353	1	50838	+
+Supercontig_2.20	257084	257422	18	N	339	fragment	yes
+Supercontig_2.20	257423	283508	19	W	Contig_2.354	1	26086	+
+Supercontig_2.20	283509	283608	20	N	100	fragment	yes
+Supercontig_2.20	283609	303770	21	W	Contig_2.355	1	20162	+
+Supercontig_2.20	303771	303870	22	N	100	fragment	yes
+Supercontig_2.20	303871	477142	23	W	Contig_2.356	1	173272	+
+Supercontig_2.21	1	33660	1	W	Contig_2.357	1	33660	+
+Supercontig_2.21	33661	33760	2	N	100	fragment	yes
+Supercontig_2.21	33761	48644	3	W	Contig_2.358	1	14884	+
+Supercontig_2.21	48645	48849	4	N	205	fragment	yes
+Supercontig_2.21	48850	51715	5	W	Contig_2.359	1	2866	+
+Supercontig_2.21	51716	51995	6	N	280	fragment	yes
+Supercontig_2.21	51996	184088	7	W	Contig_2.360	1	132093	+
+Supercontig_2.21	184089	184188	8	N	100	fragment	yes
+Supercontig_2.21	184189	241380	9	W	Contig_2.361	1	57192	+
+Supercontig_2.21	241381	241592	10	N	212	fragment	yes
+Supercontig_2.21	241593	345298	11	W	Contig_2.362	1	103706	+
+Supercontig_2.21	345299	345519	12	N	221	fragment	yes
+Supercontig_2.21	345520	423050	13	W	Contig_2.363	1	77531	+
+Supercontig_2.21	423051	423150	14	N	100	fragment	yes
+Supercontig_2.21	423151	436961	15	W	Contig_2.364	1	13811	+
+Supercontig_2.21	436962	437061	16	N	100	fragment	yes
+Supercontig_2.21	437062	440147	17	W	Contig_2.365	1	3086	+
+Supercontig_2.21	440148	440712	18	N	565	fragment	yes
+Supercontig_2.21	440713	448681	19	W	Contig_2.366	1	7969	+
+Supercontig_2.21	448682	448781	20	N	100	fragment	yes
+Supercontig_2.21	448782	456194	21	W	Contig_2.367	1	7413	+
+Supercontig_2.22	1	58600	1	W	Contig_2.368	1	58600	+
+Supercontig_2.22	58601	58700	2	N	100	fragment	yes
+Supercontig_2.22	58701	207805	3	W	Contig_2.369	1	149105	+
+Supercontig_2.22	207806	208202	4	N	397	fragment	yes
+Supercontig_2.22	208203	436966	5	W	Contig_2.370	1	228764	+
+Supercontig_2.23	1	8852	1	W	Contig_2.371	1	8852	+
+Supercontig_2.23	8853	8977	2	N	125	fragment	yes
+Supercontig_2.23	8978	33898	3	W	Contig_2.372	1	24921	+
+Supercontig_2.23	33899	34730	4	N	832	fragment	yes
+Supercontig_2.23	34731	36268	5	W	Contig_2.373	1	1538	+
+Supercontig_2.23	36269	36433	6	N	165	fragment	yes
+Supercontig_2.23	36434	91545	7	W	Contig_2.374	1	55112	+
+Supercontig_2.23	91546	92578	8	N	1033	fragment	yes
+Supercontig_2.23	92579	110097	9	W	Contig_2.375	1	17519	+
+Supercontig_2.23	110098	110509	10	N	412	fragment	yes
+Supercontig_2.23	110510	133377	11	W	Contig_2.376	1	22868	+
+Supercontig_2.23	133378	133519	12	N	142	fragment	yes
+Supercontig_2.23	133520	206773	13	W	Contig_2.377	1	73254	+
+Supercontig_2.23	206774	207034	14	N	261	fragment	yes
+Supercontig_2.23	207035	211578	15	W	Contig_2.378	1	4544	+
+Supercontig_2.23	211579	211986	16	N	408	fragment	yes
+Supercontig_2.23	211987	379317	17	W	Contig_2.379	1	167331	+
+Supercontig_2.23	379318	379544	18	N	227	fragment	yes
+Supercontig_2.23	379545	408863	19	W	Contig_2.380	1	29319	+
+Supercontig_2.24	1	12069	1	W	Contig_2.381	1	12069	+
+Supercontig_2.24	12070	12341	2	N	272	fragment	yes
+Supercontig_2.24	12342	21233	3	W	Contig_2.382	1	8892	+
+Supercontig_2.24	21234	21380	4	N	147	fragment	yes
+Supercontig_2.24	21381	23309	5	W	Contig_2.383	1	1929	+
+Supercontig_2.24	23310	23409	6	N	100	fragment	yes
+Supercontig_2.24	23410	29857	7	W	Contig_2.384	1	6448	+
+Supercontig_2.24	29858	29957	8	N	100	fragment	yes
+Supercontig_2.24	29958	373720	9	W	Contig_2.385	1	343763	+
+Supercontig_2.25	1	211127	1	W	Contig_2.386	1	211127	+
+Supercontig_2.25	211128	211387	2	N	260	fragment	yes
+Supercontig_2.25	211388	231021	3	W	Contig_2.387	1	19634	+
+Supercontig_2.25	231022	231121	4	N	100	fragment	yes
+Supercontig_2.25	231122	236905	5	W	Contig_2.388	1	5784	+
+Supercontig_2.25	236906	237015	6	N	110	fragment	yes
+Supercontig_2.25	237016	290374	7	W	Contig_2.389	1	53359	+
+Supercontig_2.25	290375	290474	8	N	100	fragment	yes
+Supercontig_2.25	290475	325069	9	W	Contig_2.390	1	34595	+
+Supercontig_2.25	325070	325208	10	N	139	fragment	yes
+Supercontig_2.25	325209	361845	11	W	Contig_2.391	1	36637	+
+Supercontig_2.26	1	120999	1	W	Contig_2.392	1	120999	+
+Supercontig_2.26	121000	121719	2	N	720	fragment	yes
+Supercontig_2.26	121720	164890	3	W	Contig_2.393	1	43171	+
+Supercontig_2.26	164891	164990	4	N	100	fragment	yes
+Supercontig_2.26	164991	179736	5	W	Contig_2.394	1	14746	+
+Supercontig_2.26	179737	179836	6	N	100	fragment	yes
+Supercontig_2.26	179837	281243	7	W	Contig_2.395	1	101407	+
+Supercontig_2.26	281244	281440	8	N	197	fragment	yes
+Supercontig_2.26	281441	304320	9	W	Contig_2.396	1	22880	+
+Supercontig_2.26	304321	304420	10	N	100	fragment	yes
+Supercontig_2.26	304421	308977	11	W	Contig_2.397	1	4557	+
+Supercontig_2.26	308978	310194	12	N	1217	fragment	yes
+Supercontig_2.26	310195	320136	13	W	Contig_2.398	1	9942	+
+Supercontig_2.26	320137	320528	14	N	392	fragment	yes
+Supercontig_2.26	320529	326505	15	W	Contig_2.399	1	5977	+
+Supercontig_2.27	1	17604	1	W	Contig_2.400	1	17604	+
+Supercontig_2.27	17605	17738	2	N	134	fragment	yes
+Supercontig_2.27	17739	56396	3	W	Contig_2.401	1	38658	+
+Supercontig_2.27	56397	56546	4	N	150	fragment	yes
+Supercontig_2.27	56547	79962	5	W	Contig_2.402	1	23416	+
+Supercontig_2.27	79963	80310	6	N	348	fragment	yes
+Supercontig_2.27	80311	128511	7	W	Contig_2.403	1	48201	+
+Supercontig_2.27	128512	128611	8	N	100	fragment	yes
+Supercontig_2.27	128612	131734	9	W	Contig_2.404	1	3123	+
+Supercontig_2.27	131735	131834	10	N	100	fragment	yes
+Supercontig_2.27	131835	202219	11	W	Contig_2.405	1	70385	+
+Supercontig_2.27	202220	202465	12	N	246	fragment	yes
+Supercontig_2.27	202466	206170	13	W	Contig_2.406	1	3705	+
+Supercontig_2.27	206171	206388	14	N	218	fragment	yes
+Supercontig_2.27	206389	256175	15	W	Contig_2.407	1	49787	+
+Supercontig_2.28	1	78927	1	W	Contig_2.408	1	78927	+
+Supercontig_2.28	78928	79166	2	N	239	fragment	yes
+Supercontig_2.28	79167	168685	3	W	Contig_2.409	1	89519	+
+Supercontig_2.28	168686	168953	4	N	268	fragment	yes
+Supercontig_2.28	168954	176516	5	W	Contig_2.410	1	7563	+
+Supercontig_2.29	1	114484	1	W	Contig_2.411	1	114484	+
+Supercontig_2.29	114485	114584	2	N	100	fragment	yes
+Supercontig_2.29	114585	134694	3	W	Contig_2.412	1	20110	+
+Supercontig_2.30	1	131171	1	W	Contig_2.413	1	131171	+
+Supercontig_2.31	1	117540	1	W	Contig_2.414	1	117540	+
+Supercontig_2.32	1	96611	1	W	Contig_2.415	1	96611	+
+Supercontig_2.33	1	35715	1	W	Contig_2.416	1	35715	+
+Supercontig_2.33	35716	35815	2	N	100	fragment	yes
+Supercontig_2.33	35816	49736	3	W	Contig_2.417	1	13921	+
+Supercontig_2.33	49737	49836	4	N	100	fragment	yes
+Supercontig_2.33	49837	56213	5	W	Contig_2.418	1	6377	+
+Supercontig_2.33	56214	56313	6	N	100	fragment	yes
+Supercontig_2.33	56314	73637	7	W	Contig_2.419	1	17324	+
+Supercontig_2.33	73638	73737	8	N	100	fragment	yes
+Supercontig_2.33	73738	93616	9	W	Contig_2.420	1	19879	+
+Supercontig_2.34	1	48147	1	W	Contig_2.421	1	48147	+
+Supercontig_2.34	48148	52470	2	N	4323	fragment	yes
+Supercontig_2.34	52471	75926	3	W	Contig_2.422	1	23456	+
+Supercontig_2.34	75927	76327	4	N	401	fragment	yes
+Supercontig_2.34	76328	96333	5	W	Contig_2.423	1	20006	+
+Supercontig_2.35	1	51464	1	W	Contig_2.424	1	51464	+
+Supercontig_2.35	51465	51564	2	N	100	fragment	yes
+Supercontig_2.35	51565	55123	3	W	Contig_2.425	1	3559	+
+Supercontig_2.35	55124	55235	4	N	112	fragment	yes
+Supercontig_2.35	55236	61375	5	W	Contig_2.426	1	6140	+
+Supercontig_2.35	61376	61771	6	N	396	fragment	yes
+Supercontig_2.35	61772	69949	7	W	Contig_2.427	1	8178	+
+Supercontig_2.35	69950	70437	8	N	488	fragment	yes
+Supercontig_2.35	70438	85837	9	W	Contig_2.428	1	15400	+
+Supercontig_2.36	1	22511	1	W	Contig_2.429	1	22511	+
+Supercontig_2.36	22512	22649	2	N	138	fragment	yes
+Supercontig_2.36	22650	32132	3	W	Contig_2.430	1	9483	+
+Supercontig_2.36	32133	32232	4	N	100	fragment	yes
+Supercontig_2.36	32233	47628	5	W	Contig_2.431	1	15396	+
+Supercontig_2.36	47629	47885	6	N	257	fragment	yes
+Supercontig_2.36	47886	67964	7	W	Contig_2.432	1	20079	+
+Supercontig_2.36	67965	73432	8	N	5468	fragment	yes
+Supercontig_2.36	73433	89822	9	W	Contig_2.433	1	16390	+
+Supercontig_2.37	1	30512	1	W	Contig_2.434	1	30512	+
+Supercontig_2.37	30513	30699	2	N	187	fragment	yes
+Supercontig_2.37	30700	80770	3	W	Contig_2.435	1	50071	+
+Supercontig_2.38	1	48009	1	W	Contig_2.436	1	48009	+
+Supercontig_2.38	48010	48392	2	N	383	fragment	yes
+Supercontig_2.38	48393	77076	3	W	Contig_2.437	1	28684	+
+Supercontig_2.39	1	51542	1	W	Contig_2.438	1	51542	+
+Supercontig_2.39	51543	51642	2	N	100	fragment	yes
+Supercontig_2.39	51643	70590	3	W	Contig_2.439	1	18948	+
+Supercontig_2.40	1	67711	1	W	Contig_2.440	1	67711	+
+Supercontig_2.41	1	61735	1	W	Contig_2.441	1	61735	+
+Supercontig_2.42	1	45059	1	W	Contig_2.442	1	45059	+
+Supercontig_2.42	45060	45528	2	N	469	fragment	yes
+Supercontig_2.42	45529	48348	3	W	Contig_2.443	1	2820	+
+Supercontig_2.42	48349	50014	4	N	1666	fragment	yes
+Supercontig_2.42	50015	60589	5	W	Contig_2.444	1	10575	+
+Supercontig_2.43	1	58326	1	W	Contig_2.445	1	58326	+
+Supercontig_2.44	1	1419	1	W	Contig_2.446	1	1419	+
+Supercontig_2.44	1420	3624	2	N	2205	fragment	yes
+Supercontig_2.44	3625	34714	3	W	Contig_2.447	1	31090	+
+Supercontig_2.44	34715	34814	4	N	100	fragment	yes
+Supercontig_2.44	34815	49671	5	W	Contig_2.448	1	14857	+
+Supercontig_2.45	1	44380	1	W	Contig_2.449	1	44380	+
+Supercontig_2.46	1	41210	1	W	Contig_2.450	1	41210	+
+Supercontig_2.47	1	23586	1	W	Contig_2.451	1	23586	+
+Supercontig_2.47	23587	27295	2	N	3709	fragment	yes
+Supercontig_2.47	27296	35454	3	W	Contig_2.452	1	8159	+
+Supercontig_2.48	1	25635	1	W	Contig_2.453	1	25635	+
+Supercontig_2.49	1	16800	1	W	Contig_2.454	1	16800	+
+Supercontig_2.50	1	16295	1	W	Contig_2.455	1	16295	+
+Supercontig_2.51	1	15177	1	W	Contig_2.456	1	15177	+
+Supercontig_2.52	1	914	1	W	Contig_2.457	1	914	+
+Supercontig_2.52	915	1240	2	N	326	fragment	yes
+Supercontig_2.52	1241	5310	3	W	Contig_2.458	1	4070	+
+Supercontig_2.52	5311	5410	4	N	100	fragment	yes
+Supercontig_2.52	5411	7376	5	W	Contig_2.459	1	1966	+
+Supercontig_2.53	1	1545	1	W	Contig_2.460	1	1545	+
+Supercontig_2.53	1546	3382	2	N	1837	fragment	yes
+Supercontig_2.53	3383	5169	3	W	Contig_2.461	1	1787	+
+Supercontig_2.53	5170	7348	4	N	2179	fragment	yes
+Supercontig_2.53	7349	10514	5	W	Contig_2.462	1	3166	+
+Supercontig_2.54	1	2402	1	W	Contig_2.463	1	2402	+
+Supercontig_2.54	2403	3810	2	N	1408	fragment	yes
+Supercontig_2.54	3811	6216	3	W	Contig_2.464	1	2406	+
